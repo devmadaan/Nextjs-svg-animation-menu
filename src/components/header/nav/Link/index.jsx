@@ -3,7 +3,7 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { slide } from "../../anim";
 
-export default function index({ data }) {
+export default function Index({ data }) {
   return (
     <motion.div
       custom={data.index}

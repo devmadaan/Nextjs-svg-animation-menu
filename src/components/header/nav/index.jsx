@@ -4,7 +4,7 @@ import { menuSlides } from "../anim";
 import { motion } from "framer-motion";
 import Curve from "./Curve";
 
-export default function index() {
+export default function Index() {
   const navItems = [
     {
       title: "Home",
